@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Zvf/ENx4qg=",
+  "success": false,
+  "projectFilePath": "D:\\SWD\\StudentManagement.Api\\StudentManagement.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An attempt was made to access a socket in a way forbidden by its access permissions. (api.nuget.org:443)\r\n  An attempt was made to access a socket in a way forbidden by its access permissions.",
+      "projectPath": "D:\\SWD\\StudentManagement.Api\\StudentManagement.Api.csproj",
+      "filePath": "D:\\SWD\\StudentManagement.Api\\StudentManagement.Api.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": []
+    }
+  ]
+}
